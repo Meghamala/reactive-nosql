@@ -10,7 +10,7 @@ DB operations added:
 Multiple Object oriented Design Patterns have been used for efficient implementation of system.
 
 For supporting Transaction having functionality of rollback via undo > Command pattern
-For supporting data availability as NoSQL is persistent via snapshot creation and recovery mechanism > Memento pattern
+For supporting data availability as NoSQL is not persistent via snapshot creation and recovery mechanism > Memento pattern
 For enhancing effective reactivenenss of NoSQL via introduction of cursor feature > Observer pattern
 
 
